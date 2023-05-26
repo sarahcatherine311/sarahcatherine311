@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 😄 👋
 
+My name is Sarah Moore (she/her) and I am a front end software developer seeking an entry level position. I am currently attending Turing School of Software and Design's Front End Engineering program, learning React, Jacascript, HTML, CSS, Cypress, Mocha & Chai, etc. 
+
+One of my greatest passions has always been the environment. I started my career as an environmental educator for 3 years and then transitioned into the Park Ranger profession. Through these positions, I developed skills such as problem solving, leadership, people management, effective communication, de-escalation, and much more. These careers allowed me to educate people on and protect our environment, however, I quickly realized the massive gap in the use of technology that could increase efficiency, scope, access, and even safety. My ultimate goal is to combine my love for and knowledge of the environment with my skills in software development to develop applications that can increase the use of technology to help different environmental fields of work. 
+
+Before starting this software development program, I worked for a tech start-up for over a year to dip my toe into the field. I am excited to continue expanding my knowledge and skills in this area!
+
+I would love to speak to you about any potential openings within your company! You can reach me on [LinkedIn](https://www.linkedin.com/in/sarah-moore-a35196127/) or via email: sarahcatherine311@gmail.com.
+
+Cheers!!
 <!--
 **sarahcatherine311/sarahcatherine311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
